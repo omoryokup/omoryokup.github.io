@@ -1,0 +1,10 @@
+User-Agent: *
+Disallow: 
+
+Sitemap: https://omoryokup.github.io/sitemap
+Sitemap: https://omoryokup.github.io/app/sitemap
+Sitemap: https://omoryokup.github.io/assets/sitemap
+Sitemap: https://omoryokup.github.io/css/sitemap
+Sitemap: https://omoryokup.github.io/includes/sitemap
+Sitemap: https://omoryokup.github.io/item/sitemap
+Sitemap: https://omoryokup.github.io/src/sitemap
